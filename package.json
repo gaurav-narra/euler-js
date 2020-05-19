@@ -1,0 +1,16 @@
+{
+  "name": "euler-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test/*",
+    "test:watch": "mocha --recursive test/* -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "should": "^13.2.3"
+  }
+}
